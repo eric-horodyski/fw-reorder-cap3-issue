@@ -1,0 +1,7 @@
+{
+  "name": "fw-reorder-cap3-issue",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
